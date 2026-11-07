@@ -1,0 +1,31 @@
+Q1. Write a JavaScript program to display an alert message: "Welcome to JavaScript!"
+
+Q2. Create a variable studentName and store your name in it. Display your name using an alert box.
+
+Q3. Create three variables to store your name, age, and class. Display all information using alert boxes.
+
+Q4. Create two variables num1 and num2. Store 25 and 15 in them and display their sum using alert.
+
+Q5. Create two variables to store two numbers and display their subtraction.
+
+Q6. Create three variables to store your first name, middle name, and last name. Display your complete name in one alert.
+
+Q7. Create a variable city and store your city name. Display this message:
+
+I live in Karachi.
+
+Q8. Create a variable price and assign 500 to it. Display the price using alert.
+
+Q9. Create two variables to store marks of two subjects. Calculate and display the total marks.
+
+Q10. Create variables for:
+
+Student Name
+
+Father Name
+
+Roll Number
+
+School Name
+
+Display all information in a single alert box.
